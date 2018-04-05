@@ -1,2 +1,5 @@
 # hello_world
-my first repository
+
+
+hello there!
+my name is arno and this is my first github experience!
